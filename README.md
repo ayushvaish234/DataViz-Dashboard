@@ -83,16 +83,4 @@ A web-based **data visualization platform** that allows users to upload datasets
 
 ---
 
-## Demo 🖼️
-
-*(Placeholder for demonstration assets - Replace these lines with your actual media)*
-
-| Feature | Screenshot / GIF |
-| :--- | :--- |
-| **Uploading a Dataset** |  |
-| **Interactive Table** |  |
-| **Chart Visualization** |  |
-| **Admin Management** |  |
-
----
 
